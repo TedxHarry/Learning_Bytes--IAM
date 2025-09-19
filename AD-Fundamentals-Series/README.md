@@ -10,6 +10,8 @@ Each section is a self-contained lesson, with 👉 **Back/Next navigation** to h
 ## 📚 Sections
 
 1. [1.01 – The Concept of a Directory Service](./sections/1.01-directory-service.md)  
+![Cover](./assets/1.01-cover.png)  
+[Read Section →](./sections/1.01-directory-service.md)
 2. [1.02 – Active Directory Architecture: Domains, Trees, Forests](./sections/1.02-ad-architecture.md)  
 3. [1.03 – Domain Controllers, Global Catalogs, FSMO Roles](./sections/1.03-dcs-gc-fsmo.md)  
 4. [1.04 – Organizational Units (OUs) and Group Policy](./sections/1.04-ous-gpos.md)  
